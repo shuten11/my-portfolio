@@ -1,0 +1,112 @@
+{
+  "Header": {
+    "local": "Portugal/Lisboa",
+    "role": "Junior Software Developer",
+    "name": "Rafael Trindade",
+    "availability": "Disponível para trabalho"
+  },
+
+  "About": {
+    "title": "Sobre mim",
+    "content": "Sou Rafael, um software developer júnior que gosta de resolver problemas e aprender coisas novas. Também tenho interesse na criação de wireframes, UI, UX e design em geral. Neste momento estou à procura de novos desafios. Procuro preferencialmente projetos à base de Javascript (React, Typescript, NodeJS, etc), porém estou sempre aberto a novos desafios que possam vir a utilizar outro tipo de tecnologias."
+  },
+  "Skills": {
+    "title": "Competências"
+  },
+  "Languages":{
+    "title": "Idiomas",
+    "portuguese":"Português, (Nativo)",
+    "english":"Inglês, (Intermédio)"
+  },
+  "Academic": {
+    "title": "Percurso Académico",
+    "EI": {
+      "school": "Instituto Politécnico de Setúbal",
+      "local": "Setúbal",
+      "name": "Licenciatura em Engenharia Informática - Engenharia Software",
+      "year": "2018 - 2022",
+      "lvl": "Nível 6 QRQ"
+    },
+    "CTSP": {
+      "school": "Instituto Politécnico de Setúbal",
+      "local": "Setúbal",
+      "name": "Curso Técnico Superior Profissional em Tecnologias e Programação de Sistemas de Informação",
+      "year": "2016 - 2018",
+      "lvl": "Nível 5 QRQ"
+    },
+    "ESAC": {
+      "school": "Escola Secundária Augusto Cabrita",
+      "local": "Barreiro",
+      "name": "Curso Profissional - Técnico de Gestão e Programação de Sistemas Informáticos",
+      "year": "2013 - 2016",
+      "lvl": "Nível 4 QRQ"
+    }
+  },
+  "Professional": {
+    "title": "Percurso Profissional",
+    "BuildUpLabs": {
+      "name": "Build Up Labs",
+      "date": "Jul 2022 - Out 2022",
+      "time": "3 Meses",
+      "local": "Lisboa",
+      "role":"Estágio",
+      "description": "Fui integrado na equipa do projeto Tap My Back, onde trabalhei em conjunto com diversos membros, desenvolvendo competências de trabalho ágil, coordenação e comunicação. As minhas atividades incluíram aprimoramento do design, resolução de bugs e implementação de novas funcionalidades."
+    },
+    "Cibersur": {
+      "name": "CiberSur",
+      "date": "Mar 2018 - Jun 2018",
+      "time": "4 Meses",
+      "local": "Palmela",
+      "role":"Estágio",
+      "description": "Desenvolvimento de uma aplicação web para a manutenção preditiva dos equipamentos de uma fábrica. A aplicação passou por várias etapas desde o levantamento de requisitos, implementação da parte visual e da parte lógica da aplicação."
+    },
+    "DAGI": {
+      "name": "Marinha, Direção de análise e gestão da informação",
+      "date": "Mar 2016 - Jun 2016",
+      "time": "3 Meses",
+      "local": "Lisboa",
+      "role":"Estágio",
+      "description": "Participação no desenvolvimento de uma aplicação de recrutamento em ambiente ASPT.NET com C# e WebForms."
+    },
+    "100Limite": {
+      "name": "100 Limite",
+      "date": "Jun 2015 - Jul 2015",
+      "time": "1 Mês",
+      "local": "Barreiro",
+      "role":"Estágio",
+      "description": "Desenvolvimento de páginas Web (Landing pages) com Wordpress."
+    }
+  },
+  "Projects": {
+    "title": "Projectos",
+    "COCARE": {
+      "title": "Co-Care | Co-created ICT solutions for Alzheimer s Informal Caregiving",
+      "description": "Participação no projeto Co Care em equipas multidisciplinares, no desenvolvimento de um protótipo de uma aplicação mobile para o apoio de cuidadores de pessoas com doença de Alzheimer."   
+    },
+    "miniBlog": {
+      "title": "Mini-blog",
+      "description": "Um projeto em React, onde aprendi a trabalhar com componetes e eventos, explorando a utilização de hooks e implementação do React Router"
+    },
+    "portfolio": {
+      "title": "Portfólio",
+      "description": "O meu portfólio pessoal onde apresento as minhas competências de software developer."
+    }
+  },
+  "ContactMe": {
+    "title": "Contacte-me",
+    "InputName":"Nome",
+    "InputEmail":"Email",
+    "InputMessage":"Mensagem",
+    "errorName": "O nome deve ter pelo menos 2 caracteres",
+    "errorEmail": "Email inválido",
+    "errorTitle":"Erro",
+    "erroDescription":"Oops, não foi possível enviar a mensagem, tente mais tarde.",
+    "sucessTitle": "Obrigado !",
+    "sucessDescription":"A mensagem foi enviada com sucesso.",
+    "btn":"Enviar"
+  },
+  "Footer": {
+    "name": "© Rafael Trindade",
+    "last_update": "2024"
+  }
+}

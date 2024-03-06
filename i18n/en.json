@@ -1,0 +1,112 @@
+{
+  "Header": {
+    "local": "Portugal/Lisbon",
+    "role": "Junior Software Developer",
+    "name": "Rafael Trindade",
+    "availability": "Available for work"
+  },
+
+  "About": {
+    "title": "About me",
+    "content": "I'm Rafael, a junior software developer that enjoys solving problems and learning new things. I also enjoy wireframing, ui, ux, and design in general. Currently i'm looking for new challenges.I prefer projects based on JavaScript (React, TypeScript, NodeJS, etc.), but I am always open to new challenges that may involve other technologies."
+  },
+  "Skills": {
+    "title": "Skills"
+  },
+  "Languages":{
+    "title": "Languages",
+    "portuguese":"Portuguese (Native)",
+    "english":" English (Intermediate)"
+  },
+  "Academic": {
+    "title": "Academic Path",
+    "EI": {
+      "school": "Polytechnic Institute of Setubal",
+      "local": "Setubal",
+      "name": "Bachelor in Informatics Engineering - Software Engineer",
+      "year": "2018 - 2022",
+      "lvl": "Nível 6 QRQ"
+    },
+    "CTSP": {
+      "school": "Polytechnic Institute of Setubal",
+      "local": "Setubal",
+      "name": "Higher Technical Professional Course in Information Systems Technologies and Programming",
+      "year": "2016 - 2018",
+      "lvl": "Nível 5 QRQ"
+    },
+    "ESAC": {
+      "school": "Augusto Cabrita Secondary School",
+      "local": "Barreiro",
+      "name": "Technical Professional Course in Information Systems Technologies and Programming",
+      "year": "2013 - 2016",
+      "lvl": "Nível 4 QRQ"
+    }
+  },
+  "Professional": {
+    "title": "Professional Path",
+    "BuildUpLabs": {
+      "name": "Build Up Labs",
+      "date": "Jul 2022 - Oct 2022",
+      "time": "3 Months",
+      "local": "Lisbon",
+      "role":"Internship",
+      "description": "I was integrated into the Tap My Back project team, where I collaborated with various members, developing agile work skills, coordination, and communication. My activities included improving the design, resolving bugs and implementing new features."
+    },
+    "Cibersur": {
+      "name": "CiberSur",
+      "date": "Mar 2018 - June 2018",
+      "time": "4 Months",
+      "local": "Palmela",
+      "role":"Internship",
+      "description": "Development of a web application for predictive maintenance of factory equipment. The application went through several stages requirements gathering, implementing the visual and logical part of the application."
+    },
+    "DAGI": {
+      "name": "Marine, Information Analysis and Management Department",
+      "date": "Mar 2016 - June 2016",
+      "time": "3 Months",
+      "local": "Lisbon",
+      "role":"Internship",
+      "description": "Participation in the development of a recruitment application in an ASP.NET environment with C# and WebForms."
+    },
+    "100Limite": {
+      "name": "100 Limite",
+      "date": "June 2015 - Jul 2015",
+      "time": "1 Month",
+      "local": "Barreiro",
+      "role":"Internship",
+      "description": "Development of Web pages (Landing pages) with WordPress."
+    }
+  },
+  "Projects": {
+    "title": "Projects",
+    "COCARE": {
+      "title": "Co-Care | Co-created ICT solutions for Alzheimer s Informal Caregiving",
+      "description": "Participation in the Co Care project within multidisciplinary teams, focusing on the development of a prototype for a mobile application designed to support caregivers of individuals with Alzheimer's disease."   
+    },
+    "miniBlog": {
+      "title": "Mini-blog",
+      "description": "A React project where I learned to work with components and events, exploring the use of hooks and implementing React Router."
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "My personal portfolio showing my skills as a software developer."
+    }
+  },
+  "ContactMe": {
+    "title": "Contact Me",
+    "InputName":"Name",
+    "InputEmail":"Email",
+    "InputMessage":"Message",
+    "errorName": "Name must be at least 2 characters long",
+    "errorEmail": "Invalid email",
+    "errorTitle":"Error",
+    "erroDescription":"Oops, unable to send the message, please try again later.",
+    "sucessTitle": "Thank You!",
+    "sucessDescription":"Your message has been sent successfully.",
+    "btn":"Send Message"
+  },
+  "Footer": {
+    "name": "© Rafael Trindade",
+    "last_update": "2024"
+  }
+}
